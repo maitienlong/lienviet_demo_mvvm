@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">口座番号で送金する</string>
+    <string name="buttonName">送る</string>
+    <string name="hindEditTextNumber">ATM番号を入力してください</string>
+</resources>

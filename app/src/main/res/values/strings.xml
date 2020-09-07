@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chuyển tiền bằng số tài khoảng</string>
+    <string name="buttonName">Kiểm tra</string>
+    <string name="hindEditTextNumber">Nhập số ATM</string>
+</resources>
